@@ -32,7 +32,7 @@ Docker is reuqired
 In a separate terminal:
 
 ```sh
-cd server
+cd task-manager/server
 docker-compose up -d
 npm install
 npm run start:dev
